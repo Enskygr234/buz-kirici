@@ -1,0 +1,16 @@
+{
+  "name": "Buz Kırıcı",
+  "short_name": "Buz Kırıcı",
+  "description": "Kartopuyla buz bloklarını kır",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#06101c",
+  "theme_color": "#06101c",
+  "lang": "tr",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
